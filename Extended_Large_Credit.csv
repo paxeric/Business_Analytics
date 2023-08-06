@@ -1,4 +1,4 @@
-﻿Account_Number,Annual_Income_1000s,Household_Size,Years_of_Post-High_School_Education,Hours_Per_Week_Watching_TV,Age,Gender,Exceded_Credit_Limit_in_Past_12_Months,Annual_Charges,Data_split
+﻿Account_Number,Annual_Income_1000s,Household_Size,Years_of_Post-High_School_Education,TV_Hours,Age,Gender,Exceded_Credit_Limit_in_Past_12_Months,Annual_Charges,Data_split
 23313578,21.8,4,5,31,47,Female,No,10023.52,Train
 14168784,65.5,7,3,48,60,Female,No,11248.76,Train
 498076,54.2,3,2,20,47,Male,No,6115,Train
